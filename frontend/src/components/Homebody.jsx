@@ -1,7 +1,9 @@
 
 
-export const Calculation=()=>{
+export const Homebody =()=>{
     return<div>
         
+
     </div>
+
 }
