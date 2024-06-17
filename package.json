@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-chartjs-2": "^5.2.0",
+    "react-minimal-pie-chart": "^8.4.0"
+  }
+}

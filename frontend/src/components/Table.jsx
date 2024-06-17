@@ -1,4 +1,5 @@
 import React,{ useState } from "react"
+import PieChart from "./PieChart";
 
 
 
@@ -82,6 +83,10 @@ import React,{ useState } from "react"
             </table>
             <div className="mt-4">
               <h2 className="text-x1 font-bold">Total Amount:Rs{total.toFixed(2)}</h2>
+
+            </div>
+            <div className="mt-4">
+              <PieChart data={rows}/>
 
             </div>
           </div>
